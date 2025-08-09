@@ -1,0 +1,168 @@
+New line.SEC925201 phases=3 bus1=179437268.1.2.3 bus2=174366775.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SECR46662 phases=3 bus1=179451906.1.2.3 bus2=179454780.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SECR46659 phases=3 bus1=179451907.1.2.3 bus2=174366544.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=32=Religador
+
+New line.SECR46660 phases=3 bus1=179436990.1.2.3 bus2=174366552.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SECR46667 phases=3 bus1=179443666.1.2.3 bus2=174367691.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SEC150448 phases=3 bus1=126435628.1.2.3 bus2=148645398.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC148369 phases=3 bus1=126435964.1.2.3 bus2=126435985.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC149020 phases=3 bus1=126434753.1.2.3 bus2=126434795.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC148663 phases=3 bus1=126433248.1.2.3 bus2=126436041.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC953595 phases=3 bus1=179891891.1.2.3 bus2=179891904.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC146920 phases=3 bus1=126435978.1.2.3 bus2=126436006.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC147900 phases=3 bus1=126435691.1.2.3 bus2=126435726.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC150161 phases=3 bus1=126436048.1.2.3 bus2=126436146.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC148110 phases=3 bus1=180590388.1.2.3 bus2=126433871.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC263666 phases=3 bus1=126433703.1.2.3 bus2=126433745.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC148684 phases=3 bus1=126435439.1.2.3 bus2=126435446.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC160927 phases=3 bus1=126435334.1.2.3 bus2=126435425.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC221960 phases=3 bus1=126434774.1.2.3 bus2=167122097.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC11029 phases=3 bus1=126435313.1.2.3 bus2=126435404.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC146591 phases=3 bus1=126433388.1.2.3 bus2=126433395.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC147886 phases=3 bus1=126433668.1.2.3 bus2=126435201.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC147893 phases=3 bus1=126433794.1.2.3 bus2=126433808.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC149006 phases=3 bus1=126433913.1.2.3 bus2=159845410.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC150441 phases=3 bus1=126434977.1.2.3 bus2=126434991.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC33464 phases=1 bus1=153881180.1 bus2=155058737.1 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC925219 phases=3 bus1=174367961.1.2.3 bus2=179449682.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC282650 phases=3 bus1=126435712.1.2.3 bus2=148531085.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC150434 phases=3 bus1=126435103.1.2.3 bus2=126435110.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC151008 phases=3 bus1=126433934.1.2.3 bus2=179669235.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC149041 phases=3 bus1=126438505.1.2.3 bus2=126438533.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC916566 phases=3 bus1=172219458.1.2.3 bus2=172219459.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC151295 phases=3 bus1=127616948.1.2.3 bus2=126438428.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC148103 phases=3 bus1=126433787.1.2.3 bus2=126433780.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC11652 phases=3 bus1=156303162.1.2.3 bus2=126435663.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC169005 phases=3 bus1=126435600.1.2.3 bus2=156303159.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC150714 phases=3 bus1=126436055.1.2.3 bus2=159740019.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC148117 phases=3 bus1=126433430.1.2.3 bus2=126433437.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC148271 phases=3 bus1=126438645.1.2.3 bus2=149603259.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC148600 phases=3 bus1=166751418.1.2.3 bus2=2945114.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC215156 phases=3 bus1=126433325.1.2.3 bus2=126433318.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC151288 phases=3 bus1=126435677.1.2.3 bus2=126435684.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SECR31324 phases=3 bus1=155200016.1.2.3 bus2=126432961.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=32=Religador
+
+New line.SEC149559 phases=3 bus1=182623270.1.2.3 bus2=126433584.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SECR40894 phases=3 bus1=167628869.1.2.3 bus2=174216360.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SEC147613 phases=3 bus1=126433899.1.2.3 bus2=126433892.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC148362 phases=3 bus1=157915187.1.2.3 bus2=157915550.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC147081 phases=3 bus1=139682302.1.2.3 bus2=166751415.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC11974 phases=3 bus1=126433444.1.2.3 bus2=126433374.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC148348 phases=3 bus1=126433731.1.2.3 bus2=150638984.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC147760 phases=3 bus1=140517682.1.2.3 bus2=179449680.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC151932 phases=3 bus1=3150396.1.2.3 bus2=181155854.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC151274 phases=3 bus1=179666729.1.2.3 bus2=179667247.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC146619 phases=3 bus1=159740028.1.2.3 bus2=126436132.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC146577 phases=3 bus1=126435033.1.2.3 bus2=126434032.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC863110 phases=3 bus1=153658599.1.2.3 bus2=165262612.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=20=Chave Faca Tripolar Abertura com Carga
+
+New line.SEC12212 phases=3 bus1=126435565.1.2.3 bus2=165379365.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SECR33588 phases=3 bus1=153650357.1.2.3 bus2=165258032.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SEC899664 phases=3 bus1=174216365.1.2.3 bus2=174216363.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC150147 phases=3 bus1=150638994.1.2.3 bus2=126433381.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SECR5667 phases=3 bus1=148530825.1.2.3 bus2=180883217.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SEC147606 phases=3 bus1=126433353.1.2.3 bus2=126433346.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC87868 phases=3 bus1=126434221.1.2.3 bus2=126434690.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC117747 phases=3 bus1=157915273.1.2.3 bus2=178238931.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC69003 phases=3 bus1=126435250.1.2.3 bus2=176763720.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC149874 phases=3 bus1=153974119.1.2.3 bus2=165258086.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC148677 phases=3 bus1=126435362.1.2.3 bus2=172219446.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC147907 phases=3 bus1=126433283.1.2.3 bus2=178110134.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC33478 phases=3 bus1=126434018.1.2.3 bus2=181076225.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC147088 phases=3 bus1=166751417.1.2.3 bus2=2945639.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC149881 phases=3 bus1=126433878.1.2.3 bus2=126433843.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC925218 phases=3 bus1=179449687.1.2.3 bus2=174367954.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC150707 phases=3 bus1=126433927.1.2.3 bus2=126433920.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC146584 phases=3 bus1=174216364.1.2.3 bus2=126434004.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC148355 phases=3 bus1=126435082.1.2.3 bus2=126435089.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC99404 phases=3 bus1=126435803.1.2.3 bus2=126435810.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC158792 phases=3 bus1=126434984.1.2.3 bus2=126435047.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=22=Chave Fusivel
+
+New line.SEC879273 phases=3 bus1=158673318.1.2.3 bus2=158675261.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SECR2643 phases=3 bus1=148531088.1.2.3 bus2=149452084.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=32=Religador
+
+New line.SEC925202 phases=3 bus1=174366785.1.2.3 bus2=179437263.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=19=Chave Faca
+
+New line.SEC0336101-6A phases=3 bus1=179451906.1.2.3 bus2=1794547800336101-6A.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC0336105-6A phases=3 bus1=179443666.1.2.3 bus2=1743676910336105-6A.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC0336102-6A phases=3 bus1=179436990.1.2.3 bus2=1743665520336102-6A.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+New line.SEC0336100-6A phases=3 bus1=179451907.1.2.3 bus2=1743665440336100-6A.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=19=Chave Faca
+
+!New line.SEC7512504_1 phases=3 bus1=SEGM#7512257.1.2.3 bus2=100#382578316.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=T !unid=34=Seccionadora Unipolar da SE
+!New line.SEC7512398_1 phases=3 bus1=SEGM#7511567.1.2.3 bus2=100#382578316.1.2.3 length=0.001 units=km r1=0.001 r0=0.001 x1=0 x0=0 c1=0 c0=0 switch=F !unid=33=Seccionadora Tripolar da SE

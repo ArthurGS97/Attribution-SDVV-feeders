@@ -1,0 +1,39 @@
+Clear
+New Circuit.PaperAdrian basekv=34.5 phases=3 bus1=b1.1.2.3 pu=1.0 angle=0 frequency=60 x1r1=7
+
+// -------------------- Transformer T1 -------------------- include by python: py-dss-interface
+!New Transformer.T1 Phases=3 Windings=2 Xhl=3
+!~ wdg=1 bus=b1.1.2.3 conn=delta kv=34.5 kva=7500 %r=0.5
+!~ wdg=2 bus=b2.1.2.3 conn=wye  kv=13.8 kva=7500 %r=0.5
+
+// -------------------- Cabe --------------------
+New Line.Cable_T1_T2 Phases=3 Bus1=b2.1.2.3 Bus2=b3.1.2.3 length=1 units=km
+~ r1=2.6 x1=0.1508 c1=0 
+
+// -------------------- Transformer T2 --------------------
+New Transformer.T2 Phases=3 Windings=2 Xhl=3.5
+~ wdg=1 bus=b3.1.2.3 conn=delta kv=13.8 kva=1500 %r=0.7
+~ wdg=2 bus=b4.1.2.3 conn=wye kv=0.38 kva=1500 %r=0.7
+
+// -------------------- Load T2 --------------------
+New Load.Motor_1 Phases=3 Bus1=b4.1.2.3 kV=0.38 kVA=200 pf=0.84 conn=wye
+New Load.Motor_2 Phases=3 Bus1=b4.1.2.3 kV=0.38 kVA=200 pf=0.84 conn=wye
+New Load.Motor_3 Phases=3 Bus1=b4.1.2.3 kV=0.38 kVA=200 pf=0.84 conn=wye
+
+New Load.L1 Phases=3 Bus1=b4.1.2.3 kV=0.38 kVA=800 pf=0.92 conn=wye model=1
+
+// -------------------- Transformer T3 --------------------
+New Transformer.T3 Phases=3 Windings=2 Xhl=3.5
+~ wdg=1 bus=b3.1.2.3 conn=delta kv=13.8 kva=5000 %r=0.5
+~ wdg=2 bus=b5.1.2.3 conn=wye kv=0.44 kva=5000 %r=0.5
+
+// -------------------- Load T3 --------------------
+New Load.L2 Phases=3 Bus1=b5.1.2.3 kV=0.44 kVA=2000 pf=0.92 conn=wye model=1
+New Load.L3 Phases=3 Bus1=b5.1.2.3 kV=0.44 kVA=2000 pf=0.92 conn=wye model=2
+
+
+
+Set VoltageBases=[34.5, 13.8, 0.44, 0.38]
+CalcVoltageBases
+!Solve
+

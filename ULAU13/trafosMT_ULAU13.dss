@@ -1,0 +1,776 @@
+New transformer.400145 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=172219450.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1837385.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF400145 phases=1 bus1=1837385.4 R=15 X=0 basefreq=60
+
+New transformer.400075 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=172219457.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1836475.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400075 phases=1 bus1=1836475.4 R=15 X=0 basefreq=60
+
+New transformer.400082 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=178110149.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1836601.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF400082 phases=1 bus1=1836601.4 R=15 X=0 basefreq=60
+
+New transformer.400271 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=148645400.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1838827.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400271 phases=1 bus1=1838827.4 R=15 X=0 basefreq=60
+
+New transformer.400110 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=172219462.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1837000.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400110 phases=1 bus1=1837000.4 R=15 X=0 basefreq=60
+
+New transformer.400194 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=156303160.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1837938.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF400194 phases=1 bus1=1837938.4 R=15 X=0 basefreq=60
+
+New transformer.397702 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=178238933.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1809945.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF397702 phases=1 bus1=1809945.4 R=15 X=0 basefreq=60
+
+New transformer.400208 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=172219453.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1838183.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF400208 phases=1 bus1=1838183.4 R=15 X=0 basefreq=60
+
+New transformer.400334 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=172219456.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1839576.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF400334 phases=1 bus1=1839576.4 R=15 X=0 basefreq=60
+
+New transformer.400432 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=172219460.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1840647.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400432 phases=1 bus1=1840647.4 R=15 X=0 basefreq=60
+
+New transformer.400341 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435992.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1839639.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400341 phases=1 bus1=1839639.4 R=15 X=0 basefreq=60
+
+New transformer.397499 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=126434697.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=1808720.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF397499 phases=1 bus1=1808720.4 R=15 X=0 basefreq=60
+
+New transformer.400509 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=172219464.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1841627.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400509 phases=1 bus1=1841627.4 R=15 X=0 basefreq=60
+
+New transformer.398192 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=159845415.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1813494.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398192 phases=1 bus1=1813494.4 R=15 X=0 basefreq=60
+
+New transformer.398255 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126434809.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1814187.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398255 phases=1 bus1=1814187.4 R=15 X=0 basefreq=60
+
+New transformer.398094 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126434830.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1812311.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398094 phases=1 bus1=1812311.4 R=15 X=0 basefreq=60
+
+New transformer.400880 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126436027.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1846464.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF400880 phases=1 bus1=1846464.4 R=15 X=0 basefreq=60
+
+New transformer.398388 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435061.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1815902.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398388 phases=1 bus1=1815902.4 R=15 X=0 basefreq=60
+
+New transformer.397863 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=181076240.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1810729.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF397863 phases=1 bus1=1810729.4 R=15 X=0 basefreq=60
+
+New transformer.400586 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=165379369.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1842810.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400586 phases=1 bus1=1842810.4 R=15 X=0 basefreq=60
+
+New transformer.398171 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=179669241.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1813284.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398171 phases=1 bus1=1813284.4 R=15 X=0 basefreq=60
+
+New transformer.397632 phases=3 xhl=3.48 %r=1.97 windings=2 %loadloss=1.9666666666666666 %noloadloss=0.5
+~ wdg=1 bus=157915551.1.2.3 kv=13.8 kva=15 tap=1 conn=delta
+~ wdg=2 bus=1809469.1.2.3.4 kv=0.22 kva=15 tap=1 conn=wye
+New Reactor.TF397632 phases=1 bus1=1809469.4 R=15 X=0 basefreq=60
+
+New transformer.545983 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=158675268.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=3164522.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF545983 phases=1 bus1=3164522.4 R=15 X=0 basefreq=60
+
+New transformer.398297 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126435012.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1814670.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398297 phases=1 bus1=1814670.4 R=15 X=0 basefreq=60
+
+New transformer.400733 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126436020.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1844672.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400733 phases=1 bus1=1844672.4 R=15 X=0 basefreq=60
+
+New transformer.398521 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433409.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1817365.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398521 phases=1 bus1=1817365.4 R=15 X=0 basefreq=60
+
+New transformer.398143 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435040.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1812955.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398143 phases=1 bus1=1812955.4 R=15 X=0 basefreq=60
+
+New transformer.398185 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=174216361.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1813375.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398185 phases=1 bus1=1813375.4 R=15 X=0 basefreq=60
+
+New transformer.398136 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=159845417.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1812850.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398136 phases=1 bus1=1812850.4 R=15 X=0 basefreq=60
+
+New transformer.398318 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=179443663.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1814922.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398318 phases=1 bus1=1814922.4 R=15 X=0 basefreq=60
+
+New transformer.398248 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126435187.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1814082.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398248 phases=1 bus1=1814082.4 R=15 X=0 basefreq=60
+
+New transformer.398164 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126435159.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1813186.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398164 phases=1 bus1=1813186.4 R=15 X=0 basefreq=60
+
+New transformer.398101 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=174216366.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1812416.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398101 phases=1 bus1=1812416.4 R=15 X=0 basefreq=60
+
+New transformer.398234 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126435026.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1813851.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398234 phases=1 bus1=1813851.4 R=15 X=0 basefreq=60
+
+New transformer.398339 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126435131.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1815377.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398339 phases=1 bus1=1815377.4 R=15 X=0 basefreq=60
+
+New transformer.400782 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126436034.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1845239.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF400782 phases=1 bus1=1845239.4 R=15 X=0 basefreq=60
+
+New transformer.398115 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126435166.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1812612.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398115 phases=1 bus1=1812612.4 R=15 X=0 basefreq=60
+
+New transformer.398199 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435194.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1813599.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398199 phases=1 bus1=1813599.4 R=15 X=0 basefreq=60
+
+New transformer.398276 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=159845413.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1814432.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398276 phases=1 bus1=1814432.4 R=15 X=0 basefreq=60
+
+New transformer.397744 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=158675263.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1810169.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF397744 phases=1 bus1=1810169.4 R=15 X=0 basefreq=60
+
+New transformer.398080 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=159845418.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1812199.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398080 phases=1 bus1=1812199.4 R=15 X=0 basefreq=60
+
+New transformer.398262 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435145.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1814236.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398262 phases=1 bus1=1814236.4 R=15 X=0 basefreq=60
+
+New transformer.398528 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=180590387.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1817421.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398528 phases=1 bus1=1817421.4 R=15 X=0 basefreq=60
+
+New transformer.398542 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=127616983.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1817519.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398542 phases=1 bus1=1817519.4 R=15 X=0 basefreq=60
+
+New transformer.397716 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=158675267.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1810022.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF397716 phases=1 bus1=1810022.4 R=15 X=0 basefreq=60
+
+New transformer.398514 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435068.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1817281.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398514 phases=1 bus1=1817281.4 R=15 X=0 basefreq=60
+
+New transformer.1543588 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=181155857.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=181155812.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF1543588 phases=1 bus1=181155812.4 R=15 X=0 basefreq=60
+
+New transformer.1056971 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=127616969.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=127604467.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF1056971 phases=1 bus1=127604467.4 R=15 X=0 basefreq=60
+
+New transformer.398360 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=181155858.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1815594.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398360 phases=1 bus1=1815594.4 R=15 X=0 basefreq=60
+
+New transformer.398584 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126433759.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1818219.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398584 phases=1 bus1=1818219.4 R=15 X=0 basefreq=60
+
+New transformer.398465 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=167122103.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1816777.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398465 phases=1 bus1=1816777.4 R=15 X=0 basefreq=60
+
+New transformer.1061444 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=150638997.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=129590836.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF1061444 phases=1 bus1=129590836.4 R=15 X=0 basefreq=60
+
+New transformer.1474274 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=167122098.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=167122104.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF1474274 phases=1 bus1=167122104.4 R=15 X=0 basefreq=60
+
+New transformer.398570 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126433801.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1817967.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398570 phases=1 bus1=1817967.4 R=15 X=0 basefreq=60
+
+New transformer.398556 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=127616997.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1817764.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398556 phases=1 bus1=1817764.4 R=15 X=0 basefreq=60
+
+New transformer.398598 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126433885.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1818457.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398598 phases=1 bus1=1818457.4 R=15 X=0 basefreq=60
+
+New transformer.690505 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=179669240.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=5606297.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF690505 phases=1 bus1=5606297.4 R=15 X=0 basefreq=60
+
+New transformer.1061465 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=179667248.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=129594077.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF1061465 phases=1 bus1=129594077.4 R=15 X=0 basefreq=60
+
+New transformer.398738 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=127616955.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1819997.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398738 phases=1 bus1=1819997.4 R=15 X=0 basefreq=60
+
+New transformer.398675 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433423.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1819206.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398675 phases=1 bus1=1819206.4 R=15 X=0 basefreq=60
+
+New transformer.398808 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=150638993.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1820774.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398808 phases=1 bus1=1820774.4 R=15 X=0 basefreq=60
+
+New transformer.398731 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433472.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1819843.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398731 phases=1 bus1=1819843.4 R=15 X=0 basefreq=60
+
+New transformer.398794 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=150638992.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1820564.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398794 phases=1 bus1=1820564.4 R=15 X=0 basefreq=60
+
+New transformer.398836 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126438547.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1821194.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398836 phases=1 bus1=1821194.4 R=15 X=0 basefreq=60
+
+New transformer.398577 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=150638995.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1818128.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398577 phases=1 bus1=1818128.4 R=15 X=0 basefreq=60
+
+New transformer.398710 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=167122100.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1819577.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398710 phases=1 bus1=1819577.4 R=15 X=0 basefreq=60
+
+New transformer.398633 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=150638996.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1818765.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398633 phases=1 bus1=1818765.4 R=15 X=0 basefreq=60
+
+New transformer.399095 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=182623272.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1824414.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399095 phases=1 bus1=1824414.4 R=15 X=0 basefreq=60
+
+New transformer.399039 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433598.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1823672.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399039 phases=1 bus1=1823672.4 R=15 X=0 basefreq=60
+
+New transformer.399151 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433507.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1825002.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399151 phases=1 bus1=1825002.4 R=15 X=0 basefreq=60
+
+New transformer.399172 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=182623269.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1825233.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399172 phases=1 bus1=1825233.4 R=15 X=0 basefreq=60
+
+New transformer.398829 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433619.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1821103.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398829 phases=1 bus1=1821103.4 R=15 X=0 basefreq=60
+
+New transformer.399242 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433528.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1826150.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399242 phases=1 bus1=1826150.4 R=15 X=0 basefreq=60
+
+New transformer.398962 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126435208.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1822720.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398962 phases=1 bus1=1822720.4 R=15 X=0 basefreq=60
+
+New transformer.399606 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435411.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1831246.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399606 phases=1 bus1=1831246.4 R=15 X=0 basefreq=60
+
+New transformer.399277 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126435740.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1826668.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399277 phases=1 bus1=1826668.4 R=15 X=0 basefreq=60
+
+New transformer.399291 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433549.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1826738.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399291 phases=1 bus1=1826738.4 R=15 X=0 basefreq=60
+
+New transformer.399571 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=178110150.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1830945.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399571 phases=1 bus1=1830945.4 R=15 X=0 basefreq=60
+
+New transformer.398969 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126438561.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1822790.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398969 phases=1 bus1=1822790.4 R=15 X=0 basefreq=60
+
+New transformer.398752 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433493.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1820193.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398752 phases=1 bus1=1820193.4 R=15 X=0 basefreq=60
+
+New transformer.398871 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433612.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1821698.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398871 phases=1 bus1=1821698.4 R=15 X=0 basefreq=60
+
+New transformer.399165 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433822.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1825128.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399165 phases=1 bus1=1825128.4 R=15 X=0 basefreq=60
+
+New transformer.398997 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126435222.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1823084.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF398997 phases=1 bus1=1823084.4 R=15 X=0 basefreq=60
+
+New transformer.399235 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126433332.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1826031.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF399235 phases=1 bus1=1826031.4 R=15 X=0 basefreq=60
+
+New transformer.399081 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126438568.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1824260.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF399081 phases=1 bus1=1824260.4 R=15 X=0 basefreq=60
+
+New transformer.399067 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126433486.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1824036.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF399067 phases=1 bus1=1824036.4 R=15 X=0 basefreq=60
+
+New transformer.399193 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126435229.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1825513.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF399193 phases=1 bus1=1825513.4 R=15 X=0 basefreq=60
+
+New transformer.399501 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=178110138.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1829853.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF399501 phases=1 bus1=1829853.4 R=15 X=0 basefreq=60
+
+New transformer.399655 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=159740022.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1831813.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399655 phases=1 bus1=1831813.4 R=15 X=0 basefreq=60
+
+New transformer.399305 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=182623261.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1826955.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399305 phases=1 bus1=1826955.4 R=15 X=0 basefreq=60
+
+New transformer.444350 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435418.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2361657.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF444350 phases=1 bus1=2361657.4 R=15 X=0 basefreq=60
+
+New transformer.399347 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126435733.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1827585.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399347 phases=1 bus1=1827585.4 R=15 X=0 basefreq=60
+
+New transformer.398976 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433605.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1822888.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398976 phases=1 bus1=1822888.4 R=15 X=0 basefreq=60
+
+New transformer.398885 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433465.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1821915.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398885 phases=1 bus1=1821915.4 R=15 X=0 basefreq=60
+
+New transformer.399536 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=178110141.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=1830350.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF399536 phases=1 bus1=1830350.4 R=15 X=0 basefreq=60
+
+New transformer.398913 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126433815.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1822174.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF398913 phases=1 bus1=1822174.4 R=15 X=0 basefreq=60
+
+New transformer.399634 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=126435453.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=1831652.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF399634 phases=1 bus1=1831652.4 R=15 X=0 basefreq=60
+
+New transformer.399515 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=182623268.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1830042.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399515 phases=1 bus1=1830042.4 R=15 X=0 basefreq=60
+
+New transformer.399557 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=182623264.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1830707.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399557 phases=1 bus1=1830707.4 R=15 X=0 basefreq=60
+
+New transformer.399641 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=182623260.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1831666.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399641 phases=1 bus1=1831666.4 R=15 X=0 basefreq=60
+
+New transformer.399508 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=180883219.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1829958.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399508 phases=1 bus1=1829958.4 R=15 X=0 basefreq=60
+
+New transformer.399326 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433570.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1827256.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399326 phases=1 bus1=1827256.4 R=15 X=0 basefreq=60
+
+New transformer.398780 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=150638989.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1820333.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF398780 phases=1 bus1=1820333.4 R=15 X=0 basefreq=60
+
+New transformer.399431 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126433591.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1828831.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399431 phases=1 bus1=1828831.4 R=15 X=0 basefreq=60
+
+New transformer.399256 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=182623265.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1826381.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399256 phases=1 bus1=1826381.4 R=15 X=0 basefreq=60
+
+New transformer.1537215 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=179891906.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=179891662.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF1537215 phases=1 bus1=179891662.4 R=15 X=0 basefreq=60
+
+New transformer.437560 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=180883220.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=2295458.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF437560 phases=1 bus1=2295458.4 R=15 X=0 basefreq=60
+
+New transformer.399851 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=178110148.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1834116.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399851 phases=1 bus1=1834116.4 R=15 X=0 basefreq=60
+
+New transformer.400026 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=172219454.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1835845.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400026 phases=1 bus1=1835845.4 R=15 X=0 basefreq=60
+
+New transformer.432660 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=126435999.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=2258428.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF432660 phases=1 bus1=2258428.4 R=15 X=0 basefreq=60
+
+New transformer.435705 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=165258087.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=2278196.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF435705 phases=1 bus1=2278196.4 R=15 X=0 basefreq=60
+
+New transformer.399809 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=148531089.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1833710.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399809 phases=1 bus1=1833710.4 R=15 X=0 basefreq=60
+
+New transformer.399879 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=172219448.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1834389.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399879 phases=1 bus1=1834389.4 R=15 X=0 basefreq=60
+
+New transformer.399676 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435432.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1832121.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399676 phases=1 bus1=1832121.4 R=15 X=0 basefreq=60
+
+New transformer.400033 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=178110147.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1835971.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF400033 phases=1 bus1=1835971.4 R=15 X=0 basefreq=60
+
+New transformer.1100595 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=181076234.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=141577055.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF1100595 phases=1 bus1=141577055.4 R=15 X=0 basefreq=60
+
+New transformer.435719 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=159740020.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=2278357.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF435719 phases=1 bus1=2278357.4 R=15 X=0 basefreq=60
+
+New transformer.399746 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435719.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1832933.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399746 phases=1 bus1=1832933.4 R=15 X=0 basefreq=60
+
+New transformer.435712 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126436160.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2278252.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF435712 phases=1 bus1=2278252.4 R=15 X=0 basefreq=60
+
+New transformer.435733 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=179891905.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=2278525.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF435733 phases=1 bus1=2278525.4 R=15 X=0 basefreq=60
+
+New transformer.399781 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=178110140.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1833409.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399781 phases=1 bus1=1833409.4 R=15 X=0 basefreq=60
+
+New transformer.399886 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=178110143.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1834480.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399886 phases=1 bus1=1834480.4 R=15 X=0 basefreq=60
+
+New transformer.435768 phases=1 xhl=2.058 xht=2.058 xlt= 1.646 %r=1.42 windings=3 %loadloss=1.42 %noloadloss=0.32
+~ wdg=1 bus=181076239.1 kv=7.96 kva=25 tap=1 conn=Wye
+~ wdg=2 bus=2278994.1.4 kv=0.24 kva=25 tap=1 conn=wye
+~ wdg=3 bus=2278994.4.2 kv=0.24 kva=25 tap=1 conn=wye
+New Reactor.TF435768 phases=1 bus1=2278994.4 R=15 X=0 basefreq=60
+
+New transformer.438498 phases=1 xhl=2.058 xht=2.058 xlt= 1.646 %r=1.42 windings=3 %loadloss=1.42 %noloadloss=0.32
+~ wdg=1 bus=181076238.1 kv=7.96 kva=25 tap=1 conn=Wye
+~ wdg=2 bus=2303942.1.4 kv=0.24 kva=25 tap=1 conn=wye
+~ wdg=3 bus=2303942.4.2 kv=0.24 kva=25 tap=1 conn=wye
+New Reactor.TF438498 phases=1 bus1=2303942.4 R=15 X=0 basefreq=60
+
+New transformer.1425366 phases=1 xhl=1.735 xht=1.735 xlt= 1.388 %r=1.8 windings=3 %loadloss=1.8 %noloadloss=0.45
+~ wdg=1 bus=165258088.1 kv=7.96 kva=10 tap=1 conn=Wye
+~ wdg=2 bus=156207943.1.4 kv=0.24 kva=10 tap=1 conn=wye
+~ wdg=3 bus=156207943.4.2 kv=0.24 kva=10 tap=1 conn=wye
+New Reactor.TF1425366 phases=1 bus1=156207943.4 R=15 X=0 basefreq=60
+
+New transformer.435740 phases=1 xhl=2.058 xht=2.058 xlt= 1.646 %r=1.42 windings=3 %loadloss=1.42 %noloadloss=0.32
+~ wdg=1 bus=181076230.2 kv=7.96 kva=25 tap=1 conn=Wye
+~ wdg=2 bus=2278602.1.4 kv=0.24 kva=25 tap=1 conn=wye
+~ wdg=3 bus=2278602.4.2 kv=0.24 kva=25 tap=1 conn=wye
+New Reactor.TF435740 phases=1 bus1=2278602.4 R=15 X=0 basefreq=60
+
+New transformer.399697 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=156303161.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=1832387.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF399697 phases=1 bus1=1832387.4 R=15 X=0 basefreq=60
+
+New transformer.1543188 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=181076233.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=181075243.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF1543188 phases=1 bus1=181075243.4 R=15 X=0 basefreq=60
+
+New transformer.399935 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=178110145.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1834998.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF399935 phases=1 bus1=1834998.4 R=15 X=0 basefreq=60
+
+New transformer.441928 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126434837.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2338081.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF441928 phases=1 bus1=2338081.4 R=15 X=0 basefreq=60
+
+New transformer.437854 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126435096.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2297306.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF437854 phases=1 bus1=2297306.4 R=15 X=0 basefreq=60
+
+New transformer.400012 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=172219451.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=1835768.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF400012 phases=1 bus1=1835768.4 R=15 X=0 basefreq=60
+
+New transformer.438547 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126436167.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2304082.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF438547 phases=1 bus1=2304082.4 R=15 X=0 basefreq=60
+
+New transformer.442376 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=179669239.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2342918.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF442376 phases=1 bus1=2342918.4 R=15 X=0 basefreq=60
+
+New transformer.442313 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=148645402.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=2341868.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF442313 phases=1 bus1=2341868.4 R=15 X=0 basefreq=60
+
+New transformer.439534 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=167122102.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=2313889.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF439534 phases=1 bus1=2313889.4 R=15 X=0 basefreq=60
+
+New transformer.439289 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=126433339.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=2310326.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF439289 phases=1 bus1=2310326.4 R=15 X=0 basefreq=60
+
+New transformer.441081 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126434816.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2329352.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF441081 phases=1 bus1=2329352.4 R=15 X=0 basefreq=60
+
+New transformer.443209 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=159740029.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=2351703.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF443209 phases=1 bus1=2351703.4 R=15 X=0 basefreq=60
+
+New transformer.440437 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126436181.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2323094.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF440437 phases=1 bus1=2323094.4 R=15 X=0 basefreq=60
+
+New transformer.441137 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=126436188.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2329772.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF441137 phases=1 bus1=2329772.4 R=15 X=0 basefreq=60
+
+New transformer.443524 phases=3 xhl=3.77 %r=1.34 windings=2 %loadloss=1.34 %noloadloss=0.34
+~ wdg=1 bus=159740027.1.2.3 kv=13.8 kva=75 tap=1 conn=delta
+~ wdg=2 bus=2354384.1.2.3.4 kv=0.22 kva=75 tap=1 conn=wye
+New Reactor.TF443524 phases=1 bus1=2354384.4 R=15 X=0 basefreq=60
+
+New transformer.519551 phases=3 xhl=4.96 %r=0.66 windings=2 %loadloss=1.3035294117647058 %noloadloss=0.27294117647058824
+~ wdg=1 bus=126435817.1.2.3 kv=13.8 kva=1275 tap=1 conn=delta
+~ wdg=2 bus=3012258.1.2.3.4 kv=0.22 kva=1275 tap=1 conn=wye
+New Reactor.TF519551 phases=1 bus1=3012258.4 R=15 X=0 basefreq=60
+
+New transformer.443608 phases=3 xhl=3.7 %r=1.52 windings=2 %loadloss=1.5222222222222221 %noloadloss=0.37777777777777777
+~ wdg=1 bus=159740025.1.2.3 kv=13.8 kva=45 tap=1 conn=delta
+~ wdg=2 bus=2355042.1.2.3.4 kv=0.22 kva=45 tap=1 conn=wye
+New Reactor.TF443608 phases=1 bus1=2355042.4 R=15 X=0 basefreq=60
+
+New transformer.1520923 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=176763722.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=176763335.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF1520923 phases=1 bus1=176763335.4 R=15 X=0 basefreq=60
+
+New transformer.669288 phases=1 xhl=1.735 xht=1.735 xlt= 1.388 %r=1.8 windings=3 %loadloss=1.8 %noloadloss=0.45
+~ wdg=1 bus=155058738.1 kv=7.96 kva=10 tap=1 conn=Wye
+~ wdg=2 bus=4743897.1.4 kv=0.24 kva=10 tap=1 conn=wye
+~ wdg=3 bus=4743897.4.2 kv=0.24 kva=10 tap=1 conn=wye
+New Reactor.TF669288 phases=1 bus1=4743897.4 R=15 X=0 basefreq=60
+
+New transformer.669295 phases=3 xhl=3.64 %r=1.67 windings=2 %loadloss=1.6666666666666667 %noloadloss=0.43333333333333335
+~ wdg=1 bus=181076228.1.2.3 kv=13.8 kva=30 tap=1 conn=delta
+~ wdg=2 bus=4743911.1.2.3.4 kv=0.22 kva=30 tap=1 conn=wye
+New Reactor.TF669295 phases=1 bus1=4743911.4 R=15 X=0 basefreq=60
+
+New transformer.1414053 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=165258038.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=153656988.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF1414053 phases=1 bus1=153656988.4 R=15 X=0 basefreq=60
+
+New transformer.1414086 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=165262617.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=153665235.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF1414086 phases=1 bus1=153665235.4 R=15 X=0 basefreq=60
+
+New transformer.1535147 phases=1 xhl=1.735 xht=1.735 xlt= 1.388 %r=1.8 windings=3 %loadloss=1.8 %noloadloss=0.45
+~ wdg=1 bus=179436989.1 kv=7.96 kva=10 tap=1 conn=Wye
+~ wdg=2 bus=179431689.1.4 kv=0.24 kva=10 tap=1 conn=wye
+~ wdg=3 bus=179431689.4.2 kv=0.24 kva=10 tap=1 conn=wye
+New Reactor.TF1535147 phases=1 bus1=179431689.4 R=15 X=0 basefreq=60
+
+New transformer.1414075 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=165258039.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=153663368.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF1414075 phases=1 bus1=153663368.4 R=15 X=0 basefreq=60
+
+New transformer.1414079 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=165262616.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=153664171.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF1414079 phases=1 bus1=153664171.4 R=15 X=0 basefreq=60
+
+New transformer.1414050 phases=3 xhl=3.84 %r=1.13 windings=2 %loadloss=1.1266666666666667 %noloadloss=0.28
+~ wdg=1 bus=165258040.1.2.3 kv=13.8 kva=150 tap=1 conn=delta
+~ wdg=2 bus=153656728.1.2.3.4 kv=0.22 kva=150 tap=1 conn=wye
+New Reactor.TF1414050 phases=1 bus1=153656728.4 R=15 X=0 basefreq=60
+
+New transformer.1512523 phases=3 xhl=4.96 %r=0.61 windings=2 %loadloss=0.6151515151515151 %noloadloss=0.10606060606060606
+~ wdg=1 bus=179454784.1.2.3 kv=13.8 kva=4950 tap=1 conn=delta
+~ wdg=2 bus=174818847.1.2.3.4 kv=0.22 kva=4950 tap=1 conn=wye
+New Reactor.TF1512523 phases=1 bus1=174818847.4 R=15 X=0 basefreq=60
+

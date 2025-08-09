@@ -1,0 +1,24 @@
+New EnergyMeter.EM1     Element=line.subULAU13 Terminal=1  Action=Save localonly=no
+New monitor.MON1 _current element=line.subULAU13 terminal=2 mode=0
+
+New EnergyMeter.EM2     Element=line.SECR46662 Terminal=1  Action=Save localonly=no
+New monitor.MON2 _current element=line.SECR46662 terminal=2 mode=0
+
+New EnergyMeter.EM3     Element=line.SECR46660 Terminal=1  Action=Save localonly=no
+New monitor.MON3 _current element=line.SECR46660 terminal=2 mode=0
+
+New EnergyMeter.EM4     Element=line.SECR46667 Terminal=1  Action=Save localonly=no
+New monitor.MON4 _current element=line.SECR46667 terminal=2 mode=0
+
+New EnergyMeter.EM5     Element=line.SECR40894 Terminal=1  Action=Save localonly=no
+New monitor.MON5 _current element=line.SECR40894 terminal=2 mode=0
+
+New EnergyMeter.EM6     Element=line.SECR33588 Terminal=1  Action=Save localonly=no
+New monitor.MON6 _current element=line.SECR33588 terminal=2 mode=0
+
+New EnergyMeter.EM7     Element=line.SECR5667 Terminal=1  Action=Save localonly=no
+New monitor.MON7 _current element=line.SECR5667 terminal=2 mode=0
+
+New EnergyMeter.EM8     Element=line.SECR2643 Terminal=1  Action=Save localonly=no
+New monitor.MON8 _current element=line.SECR2643 terminal=2 mode=0
+

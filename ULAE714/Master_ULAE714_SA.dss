@@ -1,0 +1,29 @@
+Clear
+New circuit.ULAE714 bus1=source.1.2.3 basekv=13.8 pu=1.04 angle=0 phases=3 frequency=60 mvasc3=234.9 mvasc1=227.8
+New line.subULAE714 bus1=source.1.2.3 bus2=126355009.1.2.3 phases=3 length=0.0001 r1=0.0001 x1=0.0001 units=km
+
+Redirect linecode.dss
+Redirect crvcrg_SA.dss
+Redirect ssdMT_ULAE714.dss
+Redirect trafosMT_ULAE714.dss
+Redirect ssdBT_ULAE714.dss
+Redirect ramlig_ULAE714.dss
+Redirect ucbt_ULAE714.dss
+Redirect ucmt_ULAE714.dss
+Redirect pip_ULAE714.dss
+!Redirect gds_ULAE714.dss
+Redirect capacitores_ULAE714.dss
+Redirect unseMTBT_ULAE714.dss
+
+Redirect energymetersULAE714.dss
+set tolerance = 0.01
+set Maxiter=100
+set mode = daily
+set stepsize = 1h
+set number = 24
+
+
+
+!Solve
+
+!Buscoords coord_ULAE714.dss
