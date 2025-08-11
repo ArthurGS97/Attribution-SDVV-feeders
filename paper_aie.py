@@ -5,23 +5,32 @@ AUTHOR: ARTHUR GOMES DE SOUZA.
 SYSTEMS USED: 
     1 - Circuit from *Ferreira et al.*;
     2 - IEEE 34-Bus System;
-    1 - Feeder ULAE714 -  FEATURED CONSUMERS: Rice processing plant and a carbonated beverage factory; and
-    2 - Feeder ULAU13 -  FEATURED CONSUMERS: Large-scale photovoltaic farm and the municipal wastewater treatment plant'''
+    3 - Feeder ULAE714 -  FEATURED CONSUMERS: Rice processing plant and a carbonated beverage factory; and
+    4 - Feeder ULAU13 -  FEATURED CONSUMERS: Large-scale photovoltaic farm and the municipal wastewater treatment plant'''
 
 import py_dss_interface
 import pandas as pd 
-import numpy as np
 import time 
+import os
+
 
 start_time = time.time()  # Start time
 
-feeder = 'ULAE714'  # Feeder name
+feeder = 'ULAU13'  #Feeder name: Adrian, 34Bus, ULAE714 and ULAU13
+
+os.makedirs(rf"C:\aie\{feeder}\results", exist_ok=True)
+
 
 df = pd.DataFrame(columns=[' Case ', ' Transformer Connection ', ' Fault Type ', ' V2/V1 Primary % ', ' V2/V1 Secondary % ', ' Unbalance Ratio ', ' Attribution '])  # DataFrame for data storage
 
 dss = py_dss_interface.DSS()  # Create an instance of the dss class
 
-dss_file = rf'C:\aie\{feeder}\Master_{feeder}_DU .dss'  # Path to the DSS file
+if feeder == 'Adrian':
+    dss_file = rf'C:\aie\{feeder}\Circuit_{feeder}.dss'  # Path to the DSS file circuit case 1
+if feeder == '34Bus':
+    dss_file = rf'C:\aie\{feeder}\{feeder}.dss'  # Path to the DSS file circuit case 2
+if feeder == 'ULAE714' or feeder == 'ULAU13':
+    dss_file = rf'C:\aie\{feeder}\Master_{feeder}_DU.dss'  # Path to the DSS file feeders case 3 and 4
 
 # Create a list of faults with case definitions
 case_1 = ('New Fault.case_1 phases=1 bus1=b1.1 r=0', 'FT primary Z = 0 Ω')  # Case 1 - 1 phase to ground primary
@@ -57,9 +66,11 @@ n_case = 1
 # List with transformer connection options
 connection = ['Delta', 'Wye']
 
+
 # Loop to test all combinations of transformer connection
 for lig1 in connection:
         for lig2 in connection:
+            if feeder == '34Bus' or feeder == 'ULAU13': lig2 = 'Wye'  # For the 34Bus feeder, the secondary connection is always Wye
             n_case = 1  
             df = pd.DataFrame(columns=[' Case ', ' Transformer Connection ', ' Fault Type ', ' V2/V1 Primary % ', ' V2/V1 Secondary % ', ' Unbalance Ratio ', ' Attribution '])  # DataFrame for data storage
 
@@ -69,20 +80,24 @@ for lig1 in connection:
                 dss.text('set time = 12') 
 
                 # Defines the parameters of the transformer case 1
-                #dss.text(f'New Transformer.T1 Phases=3 Windings=2 Xhl=3')
-                #dss.text(f'~ wdg=1 bus=b1.1.2.3 conn={lig1} kv=34.5 kva=7500 %r=0.5')
-                #dss.text(f'~ wdg=2 bus=b2.1.2.3 conn={lig2} kv=13.8 kva=7500 %r=0.5')
+                if feeder == 'Adrian':
+                    dss.text(f'New Transformer.T1 Phases=3 Windings=2 Xhl=3')
+                    dss.text(f'~ wdg=1 bus=b1.1.2.3 conn={lig1} kv=34.5 kva=7500 %r=0.5')
+                    dss.text(f'~ wdg=2 bus=b2.1.2.3 conn={lig2} kv=13.8 kva=7500 %r=0.5')
 
                 # Defines the parameters of the transformer case 2
-                dss.text(f'New Transformer.SubXF Phases=3 Windings=2 Xhl=0.01')
-                dss.text(f'~ wdg=1 bus=sourcebus conn={lig1} kv=69    kva=25000   %r=0.0005')   
-                dss.text(f'~ wdg=2 bus=800       conn={lig2}   kv=24.9  kva=25000   %r=0.0005')
-                
+                if feeder == '34Bus':
+                    dss.text(f'New Transformer.SubXF Phases=3 Windings=2 Xhl=0.01')
+                    dss.text(f'~ wdg=1 bus=b1 conn={lig1} kv=69    kva=25000   %r=0.0005')  #b1=sourcebus
+                    dss.text(f'~ wdg=2 bus=b2 conn= {lig2}   kv=24.9  kva=25000   %r=0.0005')  #b2=loadbus
+
                 # Defines the parameters of the transformer cases 3 and 4
-                #dss.text('New Transformer.trafo_se_uber7 phases=3 windings=2 %loadloss=0.72214 %noloadloss=0.100679 xhl=10.0')
-                #dss.text(f'~ wdg=1 bus=b1.1.2.3 kv=138 kva=25000 conn={lig1}')
-                #dss.text(f'~ wdg=2 bus=b2.1.2.3 kv=13.8 kva=25000 conn={lig2}')
-                
+                if feeder == 'ULAE714' or feeder == 'ULAU13':
+                    dss.text('New Transformer.trafo_se_uber7 phases=3 windings=2 %loadloss=0.72214 %noloadloss=0.100679 xhl=10.0')
+                    dss.text(f'~ wdg=1 bus=b1.1.2.3 kv=138 kva=25000 conn={lig1}')
+                    dss.text(f'~ wdg=2 bus=b2.1.2.3 kv=13.8 kva=25000 conn={lig2}')
+
+                    
 
 
                 dss.text(f"{case}")
@@ -102,7 +117,7 @@ for lig1 in connection:
                 df = pd.concat([df, pd.DataFrame([{
                     ' Case ': n_case, 
                     ' Transformer Connection ': f'{lig1} - {lig2}', 
-                    ' Fault Type ': descricao, 
+                    ' Fault Type ': description, 
                     ' V2/V1 Primary % ': v2_v1_prim, 
                     ' V2/V1 Secondary % ': v2_v1_sec, 
                     ' Unbalance Ratio ': ds, 
@@ -112,7 +127,7 @@ for lig1 in connection:
                 n_case += 1
                 dss.text('Clear')  
 
-            path_file = fr'C:\aie\results\{feeder}_{lig1}_{lig2}_v2.csv'
+            path_file = fr'C:\aie\{feeder}\results\{feeder}_{lig1}_{lig2}.csv'
             
             df.to_csv(path_file, index=False, encoding='utf-8-sig', header=True, sep=';', float_format='%.4f')
 
@@ -120,4 +135,3 @@ for lig1 in connection:
 
 end_time = time.time()
 print(f"Execution Time: {end_time - start_time:.2f} seconds")
-

@@ -1,6 +1,7 @@
 Clear
 New circuit.ULAU13 bus1=b1.1.2.3 basekv=138 pu=1.04 angle=0 phases=3 frequency=60 mvasc3=100 mvasc1=100
 
+
 New line.subULAU13 bus1=b2.1.2.3 bus2=126438617.1.2.3 phases=3 length=0.0001 r1=0.0001 x1=0.0001 units=km
 
 Redirect linecode.dss
@@ -24,14 +25,11 @@ set stepsize = 1h
 set number = 24
 
 
-
-
 Set VoltageBases=[138, 13.8, 0.22, 0.127]
 CalcVoltageBases
 
+
 !Solve
-
-
 
 !Buscoords coord_ULAU13.dss
 
