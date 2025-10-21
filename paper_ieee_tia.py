@@ -1,5 +1,6 @@
-'''PAPER AIE 2025
-AUTHOR: ARTHUR GOMES DE SOUZA.
+'''PAPER IEEE TIA 2025
+AUTHOR: ARTHUR GOMES DE SOUZA
+ADVISOR: WELLINGTON MAYCON SANTOS BERNARDES.
 
 
 SYSTEMS USED: 
@@ -135,3 +136,4 @@ for lig1 in connection:
 
 end_time = time.time()
 print(f"Execution Time: {end_time - start_time:.2f} seconds")
+
